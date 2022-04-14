@@ -2,7 +2,7 @@
 
 <ul>
   <li> I am 24 and currently majoring in Business and Information Technology at Tennessee Technological University and I started to code at October 2021 </li>
-  <li> I’m currently learning CSS, HTML, JavaScript, PostreSQL, Python and C++ </li>
+  <li> I’m currently learning CSS, HTML, JavaScript, Java, React, PostreSQL, Python and C++ </li>
   <li> I love chihuahuas, personally poomama, lolita the alien and puni are my favorite chihuahua instagram pages </li>
   <br>
 </ul> 
